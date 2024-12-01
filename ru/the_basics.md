@@ -426,10 +426,16 @@ PR:BF2 предлагает 4 инструмента, чтобы помочь и
 {% figure "../assets/grid.png" %}
 {% endfigure %}
 
-## _Basic Vehicle Information_ {#basic-vehicle-information}
+## _Основная информация о технике_ {#basic-vehicle-information}
 
-Many vehicles behave quite differently compared to BF2 and require more advanced knowledge to operate. Since they also have very long spawn times \(up to 20 minutes\) it is vital to know how to keep them away from problematic situations. This part will focus on explaining vehicle types and how they influence the team. For more details on operating vehicles see further in this manual in the Operating Vehicles section.
+Многие транспортные средства ведут себя совершенно иначе, чем в BF2, и требуют более продвинутых знаний для управления.</br>
+Поскольку у них также очень долгое время появления \(до 20 минут\), жизненно важно знать, как уберечь их от проблемных ситуаций.</br>
+Эта часть будет посвящена объяснению типов транспортных средств и их влиянию на команду.</br>
+Более подробную информацию об управлении транспортными средствами см. далее в этом руководстве в разделе Управление транспортными средствами.
 
+В PR:BF2 используется множество типов транспортных средств, используемых в качестве классификации.</br>
+Это не всегда напрямую соответствует их реальному аналогу из-за игровых условностей.</br>
+Следующий список показывает вам основные классы транспортных средств в PR:BF2:
 There are many vehicle types in PR:BF2 used as classification. This isn’t always directly in line with their Real Life counterpart due to gameplay reasons. The following list shows you the main classes of vehicles in PR:BF2:
 
 * **Jeep:** small transport vehicles that not always fill the entire squad. Can always drop small ammo crates. Sometimes are fitted with machine guns nests.
