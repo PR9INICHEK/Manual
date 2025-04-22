@@ -434,28 +434,29 @@ PR:BF2 предлагает 4 инструмента, чтобы помочь и
 Более подробную информацию об управлении транспортными средствами см. далее в этом руководстве в разделе Управление транспортными средствами.
 
 **TODO** Поправить текст - какая ещё классификация
+
 В PR:BF2 используется множество типов транспортных средств, используемых в качестве классификации.</br>
 Это не всегда напрямую соответствует их реальному аналогу из-за игровых условностей.</br>
 Следующий список показывает вам основные классы транспортных средств в PR:BF2:
 There are many vehicle types in PR:BF2 used as classification. This isn’t always directly in line with their Real Life counterpart due to gameplay reasons. The following list shows you the main classes of vehicles in PR:BF2:
 
-* **Jeep:** small transport vehicles that not always fill the entire squad. Can always drop small ammo crates. Sometimes are fitted with machine guns nests.
+* **Джип:** Небольшие транспортные средства, которые не всегда заполняют весь отряд. Всегда могут сбрасывать небольшие ящики с боеприпасами. Иногда оснащены пулеметными гнездами.
 
 ![](../assets/jeep.png)
 
-* **Civilian vehicles:** PR:BF2’s insurgent forces have access to a range of civilian cars and technicals mounted with machine guns, rocket-pods and SPG-9 recoilless rifles. They also have a flatbed with a mounted AA-gun, bomb trucks and bomb cars in their arsenal. 
+* **Гражданские автомобили:** Повстанцы имеют доступ к целому ряду гражданских автомобилей и технических машин, оснащённых пулеметами, ракетными установками и безоткатными орудиями СПГ-9. В их арсенале также есть платформа с установленным зенитным орудием, грузовики и автомобили с бомбой. 
 
 ![](../assets/civiliancars.png)
 
-* **Truck:** come in both transport and logistic variants. The transport variant is capable of dropping 1 light supply crate and can fit an entire squad. The Logistic variant can only fit 2 soldiers and can drop 2 heavy supply crates, repair stations and Close Support Bridges \(more on this later\).
+* **Грузовик:** бывают как транспортные, так и логистические. Транспортный вариант способен сбрасывать 1 легкий ящик с припасами и может вместить целый отряд. Логистический вариант может вместить только 2 солдат и может сбрасывать 2 тяжелых ящика с припасами, ремонтные станции и понтонные мосты \(подробнее об этом позже\).
 
 ![](../assets/truck.png)
 
-* **Armored Personnel Carrier \(APC\):** large armored vehicles more often than not armed with heavy weaponry. Often do not possess the force to defeat other heavy armored targets such as IFVs and tanks but are the best of all vehicles types at assisting infantry. Can fit 2 crewman \(driver and gunner\) and up to 6 soldier passengers.
+* **Бронетранспортер \(БТР\):** большие бронированные машины, чаще всего вооруженные тяжелым вооружением. Часто не обладают силой, чтобы поражать другие тяжелые бронированные цели, такие как БМП и танки, но являются лучшими из всех типов машин для оказания помощи пехоте. Может вместить 2 членов экипажа \(водитель и стрелок\) и до 6 пассажиров-солдат.
 
 ![](../assets/apc.png)
 
-* **Infantry Fighting Vehicle \(IFV\):** Better armed and stronger than most APCs with often capabilities to defeat heavy armored targets using AT-Missiles. Are not always capable of transporting infantry. Under this category often also fall the recon-vehicles.
+* **Боевая машина пехоты \(БМП\):** Лучше вооружены и сильнее, чем большинство БТР, часто способны поражать тяжелобронированные цели с помощью ПТ-ракет. Не всегда способны перевозить пехоту. В эту категорию часто также попадают разведывательные машины.
 
 ![](../assets/ifv.png)
 
