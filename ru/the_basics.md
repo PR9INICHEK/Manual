@@ -1,141 +1,149 @@
-# The Basics
+# Основы
 
-Most importantly you should **join a squad**. Some servers even enforce it up by kicking solo players after a warning period. The game is far more enjoyable when playing in a functioning squad. If you need any help, just **ask players in your squad** what to do. If possible use Mumble. It is commonly used in PR. Playing PR:BF2 without a microphone will not give you the full experience so it’s a wise investment. If no one answers, try joining another squad or use general chat. There are many helping community members around who welcome new players and give them a hand. 
+Прежде всего, вам следует **вступить в отделение**.</br>
+На некоторых серверах это даже принудительно — одиночных игроков после предупреждения могут кикнуть.</br>
+Игра становится значительно интереснее и эффективнее, когда вы играете в слаженном отделении.</br>
+Если вам нужна помощь, просто **спросите игроков в своём отделении**, что делать.</br>
+По возможности используйте _Mumble_ — он широко применяется в PR. Игра в PR:BF2 без микрофона не даёт полного опыта, поэтому его наличие — разумное вложение.</br>
+Если никто не отвечает, попробуйте вступить в другой отряд или воспользоваться общим чатом.</br>
+В сообществе PR много игроков, которые охотно помогают новичкам.
 
-We expect you to have some basic understanding of BF2 when it comes to navigating the in-game menus such as scoreboard, map and kit selection. To get acquainted with PR's interface you can start up an offline match by clicking on Co-operative or Multiplayer, then Create Local, click on Add Map and then Deploy.
+Предполагается, что у вас уже есть базовое понимание _Battlefield 2_, включая навигацию по внутриигровым меню, таким как таблица счёта, карта и выбор комплектов.</br>
+Чтобы познакомиться с интерфейсом PR, вы можете запустить офлайн-матч, выбрав Co-operative или Multiplayer, затем Create Local, нажать Add Map и после этого Deploy.
 
-## _Kit selection & spawning_ {#kit-selection-and-spawning}
+## _Выбор снаряжения и появление на поле боя_ {#kit-selection-and-spawning}
 
-* When you begin playing, it is recommended that you only spawn as a rifleman with a sight of your choice. This way you can better learn the fundamental basics of gameplay.
-* After learning infantry basics you can ask your SL to assign you a specialized kit when you feel up to the task. If you want to try out new equipment or a vehicle, you can do so easily in the co-op mode without inconveniencing your squad members or risking your team's assets.
-* Kits that are specialized and more difficult to operate are generally limited and can only be obtained if certain conditions are met within a squad. These reserved kits are of limited supply to the team and you should always ask before requesting one.
-* Kits can be requested from the main spawn menu \(default: **Caps Lock**\), a supply crate \([see Logistics](the_basics.md#logistics)\) or the rear of an APC / IFV. To have the ability to request a kit from a supply crate or vehicle, you must be a part of a squad.
+* При начале игры рекомендуется появляться только с комплектом стрелка (rifleman) с выбранным прицелом. Это позволит лучше освоить базовые основы игрового процесса.
+* Изучив основы пехоты, вы можете попросить своего КО назначить вам специализированный комплект, когда почувствуете готовность. Если вы хотите опробовать новое снаряжение или технику, лучше сделать это в режиме co-op, не мешая членам отряда и не рискуя командными ресурсами.
+* Специализированные и более сложные в использовании комплекты, как правило, ограничены и могут быть получены только при выполнении определённых условий внутри отделения. Эти зарезервированные комплекты доступны в ограниченном количестве для всей команды, поэтому перед запросом всегда следует спрашивать разрешение.
+* Комплекты можно запрашивать из главного меню возрождения \(по умолчанию: **Caps Lock**\), из ящика снабжения \([см. Logistics](the_basics.md#logistics)\) или с задней части БТР / БМП. Чтобы иметь возможность запрашивать комплект из ящика или техники, вы должны состоять в отделении.
 
-In PR:BF2 you cannot spawn at every control point that your team controls. Spawn points available in PR:BF2 are:
+В PR:BF2 нельзя появляться на каждой контрольной точке, находящейся под контролем вашей команды. Доступные точки возрождения:
 
-* **Your squad's rally point \(RP\)** is a green circle surrounding a spawn point with your squad’s number adjacent to it. Depending on the location of your squad’s RP in relation to a team’s FOB will determine its longevity. Note: If you spawn on another squad’s rally point, you will automatically spawn at your own rally point, or any nearby FOB. If none available you will be moved to the main base of your team. If overrun by the enemy, your squad’s RP will disappear. RPs are not available to every faction. \([see Deployable Structures](the_squad_leader.md#deployable-structures)\)
+* **Ралли-поинт вашего отряда (RP)** — зелёный круг вокруг точки возрождения с номером вашего отряда рядом. Время существования RP зависит от его расположения относительно FOB команды. Примечание: если вы попытаетесь появиться на RP другого отряда, вы автоматически появитесь на своём RP или на ближайшем FOB. Если таких точек нет, вы будете перемещены на главную базу команды. При захвате противником RP исчезает. RP доступны не для всех фракций. \([см. Deployable Structures](the_squad_leader.md#deployable-structures)\)
 
 {% figure "../assets/rally.png" %}
-  A rallypoint.
+  Rally point.
 {% endfigure %}
 
-* **Map-specific team rally points**. These usually expire 5 minutes after the round starts and can be used by the whole team. These also only allow maximum 12 people to spawn on it until it disappears.
-* **The commander rally point**. This RP can only be placed by the commander, provided a squad leader and 4 squadmates are in the vicinity of the CO. On the map this will be a rally point with a “C” next to it.
-* **Deployable forward operating base \(FOB\) or hideouts** can be used by the entire team to spawn at, but must be constructed before becoming operational. On the map it will show as a spawn point with a green triangle. It comes online 90 seconds after being built. It becomes unspawnable for 30 seconds if 1 enemy is within 10m, 2 enemies within 50m, 4 enemies within 100m or 8 enemies within 150m. [\(see Deployable Structures\)](the_squad_leader.md#deployable-structures)
-* In the Insurgency game mode, the defending insurgent team may spawn at the **weapons caches** that hasn't been revealed to the enemy, this is called the unknown cache. This spawn is also disabled if enemies becomes too close, similar to the FOB.
+* **Командные ралли-поинты, специфичные для карты**. Обычно они исчезают через 5 минут после начала раунда и могут использоваться всей командой. Максимум 12 человек могут появиться на таком RP до его исчезновения.
+* **Ралли-поинт командира**. Может быть размещён только командиром при условии, что рядом с ним находятся командир отряда и 4 бойца. На карте обозначается ралли-поинтом с буквой «C».
+* **Развёртываемые передовые операционные базы (FOB) или укрытия** могут использоваться всей командой для возрождения, но должны быть построены перед вводом в эксплуатацию. На карте отображаются как точка возрождения с зелёным треугольником. Становятся активными через 90 секунд после постройки. Точка становится недоступной для возрождения на 30 секунд, если 1 противник находится в радиусе 10 м, 2 — в радиусе 50 м, 4 — в радиусе 100 м или 8 — в радиусе 150 м. \([см. Deployable Structures](the_squad_leader.md#deployable-structures)\)
+* В режиме Insurgency обороняющаяся команда повстанцев может появляться на **тайниках с оружием**, которые ещё не раскрыты противнику — это так называемые неизвестные тайники. Эта точка возрождения также блокируется, если враги подходят слишком близко, аналогично FOB.
 
 {% figure "../assets/fob.png", "../assets/hideout.png", "../assets/cache-weapon.png" %}
 FOB, Hideout & weapon cache.
 {% endfigure %}
 
-
-
-* **Your team's headquarters, main base or permanent FOB.** This is the only spawn point that is always available.
+* **Штаб команды, главная база или постоянный FOB.** Это единственная точка возрождения, которая всегда доступна.
 
 {% figure "../assets/acv.png" %}
-Armored Command Vehicle (ACV) found in mainbases only.
+Armored Command Vehicle (ACV), встречается только на главных базах.
 {% endfigure %}
 
-* Some maps feature **parachute spawns** where an airborne assault is simulated. These will be visualized by moving spawn markers on the minimap. Choose one and you will spawn with an automaticly deployed parachute.
+* На некоторых картах доступны **парашютные точки возрождения**, имитирующие воздушный десант. Они отображаются как движущиеся маркеры возрождения на мини-карте. Выберите один из них, и вы появитесь с автоматически раскрытым парашютом.
 
-## _In-game interface \(HUD\)_ {#hud}
-* In the PR:BF2 in-game HUD, players are notified by **player-specific messages** that can only be seen by that player. They are used to give players feedback about different in-game events for example:
-  * The reason why the player is not issued the kit being requested.
-  * The reason why the deployable asset that the player requested could not be built.
-  * That the player must exit the vehicle or the current seat to avoid punishment.
-* PR also uses **HQ Notifications** which is displayed large orange type at the top left of the screen. These notifications give you updates on the current objectives, mission progress and other essential messages.
-* Direct messages from server administrators and some types of game notifications will appear in orange text near the center of the screen. Some of these are just informative while others, especially messages from server administrators, may require your attention.
-* If you missed a message or announcement, like the result of a map vote, you can view them again by holding Tab, right clicking once to activate your cursor and left clicking the **Notifications tab**.
-* Firing **cross-hairs** have been removed from the screen. If you want to shoot precisely, you need press the alternate firing key to aim down your weapon's sights, or use the BUIS for close quarter fighting \(see [the weapons chapter](weapons_and_equipment.md#buis)\).
-* **Most 3D icons have been removed** for all players. It is vital to ID your targets before engaging to avoid friendly fire. Learning the distinction of different camo, flags and the profile shape of the factions infantry helps you ID an enemy faster. As an example, to locate a Squad Leader, look for a radio antenna extending upwards from his backpack.
-* **No health status bar** indicating your vital status. \([see Health Management](the_basics.md#health-management)\)
-* **The ammo counter** only displays the weapon's fire mode and the number of remaining magazines.
-* To estimate the **amount of rounds left** in your magazine you can open the communication rose\(hold: **Q**\) and see a visual indicator of the amount of ammo left. 
+## _In-game interface (HUD)_ {#hud}
+
+* В игровом интерфейсе PR:BF2 игроки получают **персональные сообщения**, которые видны только конкретному игроку. Они используются для информирования о различных игровых событиях, например:
+  * причина, по которой запрашиваемый комплект не был выдан;
+  * причина, по которой запрошенное развёртываемое укрепление не может быть построено;
+  * уведомление о необходимости покинуть технику или текущее место в ней во избежание наказания.
+* В PR также используются **HQ Notifications**, которые отображаются крупным оранжевым текстом в верхнем левом углу экрана. Эти уведомления информируют о текущих целях, ходе миссии и других важных сообщениях.
+* Прямые сообщения от администраторов сервера и некоторые типы игровых уведомлений отображаются оранжевым текстом ближе к центру экрана. Часть из них носит информационный характер, тогда как другие, особенно сообщения администраторов, могут требовать вашего внимания.
+* Если вы пропустили сообщение или объявление, например результат голосования за карту, вы можете просмотреть его снова, удерживая **Tab**, кликнув правой кнопкой мыши для активации курсора и затем выбрав вкладку **Notifications**.
+* **Прицельные перекрестия** были удалены с экрана. Для точной стрельбы необходимо нажать клавишу альтернативного огня, чтобы прицелиться через прицельные приспособления оружия, либо использовать BUIS для ближнего боя (см. [главу об оружии](weapons_and_equipment.md#buis)).
+* **Большинство 3D-иконок было удалено** для всех игроков. Крайне важно идентифицировать цели перед открытием огня, чтобы избежать дружественного огня. Изучение различий в камуфляже, флагах и силуэтах пехоты разных фракций помогает быстрее распознавать противника. Например, чтобы определить командира отряда, обратите внимание на радиоантенну, выступающую вверх из его рюкзака.
+* **Индикатор здоровья отсутствует**, показывающий текущее состояние бойца. ([см. Health Management](the_basics.md#health-management))
+* **Счётчик боеприпасов** отображает только режим огня оружия и количество оставшихся магазинов.
+* Чтобы оценить **количество патронов, оставшихся в магазине**, можно открыть меню связи (удерживая **Q**) и посмотреть на визуальный индикатор боеприпасов.
 
 {% figure "../assets/ammo_check.png" %}
-Ammo indicator.
+Индикатор боеприпасов.
 {% endfigure %}
 
-* **The medic** can see how far he is done healing a soldier with the HUD just above the compass. Infantry can watch the same way how long until deployable is finished shoveling.
+* **Медик** может видеть, насколько завершено лечение бойца, по индикатору HUD прямо над компасом. Пехота аналогичным образом может наблюдать, сколько времени осталось до завершения строительства укрепления.
 
 {% figure "../assets/heal_build_bar.png" %}
-Healing/Building indicator bar.
+Индикатор лечения / строительства.
 {% endfigure %}
 
-* There are **no kill messages** \(friendly fire is an exception\). Even the scoreboard will not show who is alive or dead on the enemy team. If you need to know whether someone is dead, you should look for his body.
-* Only air vehicles and some armor drivers use a permanent **mini-map** on the HUD. The full map overlay is available for everybody.
-* **The current map & layer** can be viewed on the top of the screen when opening the map with squad/kit menu.
-* Using the little arrow \(left of timer\) will show you the **current map asset info overlay** of all vehicles that are on the map including the respawn timers of friendly vehicles as well as whether or not they spawn with a delay or respawn upon destruction. Off Map Mortar or Artillery, also known as Area Attacks, are usually limited to 3 or 4 uses, and can only be used after relatively long waiting periods.
+* **Сообщения об убийствах отсутствуют** (за исключением дружественного огня). Даже таблица счёта не показывает, кто жив или мёртв в команде противника. Если вам необходимо узнать, погиб ли игрок, следует искать его тело.
+* Только авиация и некоторые водители бронетехники используют постоянную **мини-карту** в HUD. Полная карта доступна всем игрокам.
+* **Текущую карту и слой** можно увидеть в верхней части экрана при открытии карты с меню отряда / комплектов.
+* Использование небольшой стрелки (слева от таймера) отображает **информационную панель ресурсов карты**, включающую все доступные на карте машины, таймеры возрождения дружественной техники, а также информацию о том, появляется ли техника с задержкой или возрождается после уничтожения. Вне-картовые миномёты или артиллерия, также известные как Area Attacks, обычно ограничены 3–4 применениями и могут использоваться только после достаточно длительного времени ожидания.
 
 {% figure "../assets/assets.png" %}
-Current map asset info overlay.
+Информационная панель ресурсов карты.
 {% endfigure %}
 
-* **The remaining tickets** of your team and the time left can only be viewed from the squad screen. The enemy tickets are not displayed.
-* **Suppression** happens when you are under close fire by rifles, heavy weapons or nearby explosions. The screen will become blurred, like it is shaking. This effect simulates the reduced capability to return effective fire while being suppressed by the enemy.
+* **Оставшиеся билеты** вашей команды и оставшееся время раунда можно увидеть только на экране отряда. Билеты команды противника не отображаются.
+* **Подавление** возникает, когда вы находитесь под плотным огнём из стрелкового оружия, тяжёлых вооружений или рядом с взрывами. Экран размывается и начинает «дрожать». Этот эффект имитирует снижение способности вести эффективный ответный огонь под огнём противника.
 
 {% figure "../assets/suppression.png" %}
-Normal view of the game (left) and suppresion effect in action (right).
+Обычный вид игры (слева) и эффект подавления (справа).
 {% endfigure %}
-* Located on the lower left hand side of the screen is a stamina bar. Sprinting and jumping will reduce the stamina available, not sprinting or jumping will slowly replenish it. When stamina has been reduced to 50% or lower, indicated by blinking, sprinting is no longer possible, jumping however still is.
-* When a player is **dead** \(commonly reffered to as dead-dead\), he will not revivable and black screen with an appropriate message will be displayed instead of seeing their surroundings.
-* Your weapon will deviate and become inaccurate to shoot based on the amount of movement you make. When aiming down sights, a **deviation indicator** will appear above your compass, showing your weapon’s current level of deviation. The wider the indicator, the higher the spread; if the two dots collapse into one, your weapon has reached low deviation, but it might take one or two more moments for the weapon to reach its maximum accuracy still. 
-* **The automatic map spotting system** has been removed from infantry. Air vehicles can still be spotted from within a vehicle.
-* Officers can send a **contact** report to the commander or use their radio to manually place a marker on the team's map. Normal soldiers can only shout a generic warning when they spot enemy units.
-* **The Radio Commo-rose \(default: Q & T\)** contain items with two functions. Left-clicking **“RELOADING / CEASE FIRE”** tells the people around you that you are changing magazines, while a right click tells them to stop shooting. The same principle applies to **“GO, GO, GO / FALL BACK”** and other such menu items.
+
+* В нижнем левом углу экрана расположена шкала выносливости. Бег и прыжки уменьшают запас выносливости, а её восстановление происходит при отсутствии этих действий. Когда выносливость снижается до 50 % или ниже (что обозначается миганием), бег становится невозможен, однако прыжки всё ещё доступны.
+* Когда игрок находится в состоянии **dead** (обычно называемом dead-dead), его невозможно оживить, и вместо окружающего мира отображается чёрный экран с соответствующим сообщением.
+* Точность оружия и отклонение пуль зависят от интенсивности движения. При прицеливании появляется **индикатор отклонения** над компасом, показывающий текущий уровень разброса. Чем шире индикатор, тем выше разброс; если две точки сходятся в одну, оружие достигло низкого отклонения, однако для достижения максимальной точности может потребоваться ещё один-два момента.
+* **Автоматическая система отметки целей на карте** для пехоты была удалена. Авиация по-прежнему может отмечать цели из техники.
+* Офицеры могут отправлять **contact-репорты** командиру или использовать радио для ручной установки маркеров на карте команды. Обычные солдаты могут лишь выкрикивать общее предупреждение при обнаружении противника.
+* **Radio Commo-rose (по умолчанию: Q и T)** содержит элементы с двойной функцией. Левый клик по пункту **«RELOADING / CEASE FIRE»** сообщает окружающим, что вы меняете магазин, тогда как правый клик приказывает прекратить огонь. Тот же принцип применяется к пунктам **«GO, GO, GO / FALL BACK»** и другим подобным командам.
 
 {% figure "../assets/commorose.png" %}
-Commo-rose when pressing Q.
+Commo-rose при нажатии Q.
 {% endfigure %}
-* You can **orientate yourself** on the map using the direction element that you will find around your player icon.
-* Whilst equipped with particular weapons or equipment the main **radio communication-rose** is replaced by a small context-sensitive menu. When holding a field dressing or the medic bag you can use the “FIRST AID” command to inform nearby players that you want to heal them. Many pieces of equipment and some weapons use context-sensitive menus.
+
+* Вы можете **ориентироваться на карте**, используя индикатор направления, расположенный вокруг иконки вашего персонажа.
+* При использовании определённого оружия или оборудования основное **радио-меню связи** заменяется небольшим контекстно-зависимым меню. Например, удерживая бинт или медицинскую сумку, вы можете использовать команду **«FIRST AID»**, чтобы сообщить находящимся рядом игрокам, что вы готовы их лечить. Многие элементы снаряжения и некоторые виды оружия используют такие контекстные меню.
 
 ## _Health Management_ {#health-management}
 
-Weapons in Project Reality are highly lethal and it is only a matter of time until you are shot and start bleeding. Although the HUD in PR doesn’t contain a health bar, once your health drops below 75% there will be visual cues to warn you such as a periodically darkening screen with a tunnel vision effect. At less than 25% HP, you’ll hear coughs and heavy breathing, at 10 HP you’ll lose your stamina and cannot regain it unless you heal above at least those 10 HP. Whilst bleeding, the tunnel vision and screen darkening effect will get stronger and stronger, limiting your combat effectiveness further and further.
+Оружие в Project Reality обладает высокой летальностью, и рано или поздно вы получите ранение и начнёте истекать кровью. Несмотря на то что в HUD PR отсутствует индикатор здоровья, при снижении уровня здоровья ниже 75 % появляются визуальные предупреждения — периодическое затемнение экрана с эффектом туннельного зрения. При уровне здоровья ниже 25 % вы услышите кашель и тяжёлое дыхание, а при 10 HP вы полностью потеряете выносливость и не сможете восстановить её, пока не вылечитесь хотя бы выше этих 10 HP. Во время кровотечения эффект туннельного зрения и затемнение экрана будут усиливаться, всё сильнее снижая вашу боевую эффективность.
 
 ### Healing
 
-Once in bleed status, you’ll continue to lose HP over time until you eventually pass out. To prevent this you have two ways of healing yourself. Almost every kit includes a **field dressing** which is selected by pressing the appropriate key or cycling through your weapon selection. Pressing fire throws it onto the ground. Within a second or two, the field dressing will disappear and the player standing next to it will regain 25% of their total health. The patch itself does not stop bleeding however. Should your HP, after applying the patch, still be below 75%, you’ll continue to bleed and have merely bought yourself some time, you thus have to apply more field dressings if available, scavenge hostile bodies if necessary.
+После получения статуса кровотечения вы будете постепенно терять здоровье, пока в конечном итоге не потеряете сознание. Чтобы этого избежать, у вас есть два способа лечения. Почти каждый комплект экипировки включает **перевязочный пакет (field dressing)**, который выбирается соответствующей клавишей или прокруткой оружия. При нажатии кнопки огня он выбрасывается на землю. Через одну–две секунды перевязочный пакет исчезает, а игрок, находящийся рядом с ним, восстанавливает 25 % от максимального здоровья. Однако сам по себе перевязочный пакет **не останавливает кровотечение**. Если после его применения уровень здоровья всё ещё ниже 75 %, кровотечение продолжится, и вы лишь выиграете немного времени. В таком случае необходимо использовать дополнительные перевязочные пакеты (если они есть) либо, при необходимости, подбирать их с тел противников.
 
-The vast majority of kits are only issued a single field dressing for emergency use, players heavily rely on their squad’s or team’s medics to heal back to full HP. The Medic and the Collaborator roles are the only ones issued a first aid kit for treating friendlies without the need for field dressings. When injured, either use mumble or the commo rose \(“Q”\)  call option “Medic ” to get your medic’s attention. However, unlike in BF2, the medic can’t just throw the first aid kit on the ground but instead must hold it in their hands, be in touching distance to the injured player and then hold down the left mouse button while looking towards them. A sound simulating bandages being ripped will designate that first aid is being applied. To be fully healed takes about 15 seconds, so be sure to do this in a safe spot.
+Подавляющему большинству комплектов выдаётся только один перевязочный пакет для экстренных ситуаций, поэтому игроки сильно зависят от медиков своего отряда или команды для полного восстановления здоровья. Роли **Medic** и **Collaborator** — единственные, кто получает аптечку первой помощи, позволяющую лечить союзников без использования перевязочных пакетов. При получении ранений используйте Mumble или меню связи (клавиша **Q**) и команду «Medic», чтобы привлечь внимание медика. Однако, в отличие от BF2, медик не может просто бросить аптечку на землю — он должен держать её в руках, находиться вплотную к раненому игроку и удерживать левую кнопку мыши, глядя на него. Звук рвущихся бинтов означает, что лечение началось. Полное восстановление занимает около 15 секунд, поэтому убедитесь, что вы находитесь в безопасном месте.
 
 {% figure "../assets/fielddressing.png", "../assets/kit.png", "../assets/epipen.png" %}
-Field dressing, first aid kit & epipen.
+Перевязочный пакет, аптечка первой помощи и эпипен.
 {% endfigure %}
 
 ### Reviving
 
-If you are unable to be healed in time, you will become unconscious and the screen will say you’ve been critically wounded. This does not mean you are dead! When you become critically wounded a medic can still revive you for up to 5 minutes, saving your team valuable tickets. You can utilize Mumble to coordinate the medic to your location by using the Local channel \(**H**\) or **squad’s Radio Net \(Numpad 0\).** You can also click **Call Medic** to become temporarily marked on the map of every medic in the team.
+Если вас не успели вылечить вовремя, вы потеряете сознание, и на экране появится сообщение о критическом ранении. Это **не означает смерть**. В состоянии критического ранения медик может оживить вас в течение 5 минут, сохранив ценные билеты команды. Вы можете использовать Mumble для координации медика, сообщив своё местоположение через локальный канал (**H**) или **радиоканал отряда (NumPad 0)**. Также вы можете нажать **Call Medic**, чтобы временно отметить себя на карте всех медиков команды.
 
-In order to revive you, the medic will select the **epipen** from their weapon selection \(default: **5**\) and with the epipen in hand, inject and administer the epinephrine shot to the central mass area of the unconscious player's torso by clicking and holding down left mouse button. The player will then become conscious but will only be at about 10% health and will still need healing. The medic and the recently revived player should find a safe area and continue the healing process there.
+Для оживления медик выбирает **эпипен** в меню оружия (по умолчанию: **5**) и, держа его в руках, вводит инъекцию эпинефрина в центральную часть туловища бессознательного игрока, удерживая левую кнопку мыши. После этого игрок приходит в сознание, но имеет лишь около 10 % здоровья и всё ещё нуждается в лечении. Медику и только что оживлённому игроку следует найти безопасное место и продолжить процесс лечения там.
 
-If the player is stuck on uneven ground or in a bad position for reviving, it is required to drag the wounded body into a better position first. To drag a body as medic you need to be in the crouched position and stay in it. Then you can use the **drag** weapon slot\(default: **2**\) to start dragging. You can drag in all directions including backwards. 
+Если тело игрока находится на неровной поверхности или в неудобном для оживления положении, необходимо сначала перетащить его в более подходящее место. Чтобы перетащить тело, медик должен находиться в положении приседа и оставаться в нём. Затем следует выбрать слот оружия **drag** (по умолчанию: **2**) и начать перетаскивание. Перетаскивать тело можно в любом направлении, включая движение назад.
 
 {{ "Video Tutorial - Reviving" | youtube("auBgiI8IxWE") }}
 
 ### Death
 
-Sometimes players will not be revivable, such as when a player is killed in a vehicle. If you were recently revived and you become critically wounded again within 2 minutes, you will not be revivable the second time. If you are wounded and you are not revived within 5 minutes you will also go dead. If there is no chance of being revived, click **Give up** on the spawn screen. Now the screen will show that you are dead and you can prepare to respawn. The time you spent waiting to click give up counts toward your total respawn time.
+В некоторых случаях игрок не может быть оживлён, например если он был убит внутри техники. Также если игрок был недавно оживлён и снова получает критическое ранение в течение 2 минут, во второй раз его уже нельзя оживить. Если вы находитесь в критическом состоянии и не были оживлены в течение 5 минут, вы также окончательно погибаете. Если шансов на оживление нет, нажмите **Give up** на экране возрождения. После этого экран покажет, что вы мертвы, и вы сможете подготовиться к повторному появлению. Время ожидания перед нажатием Give up засчитывается в общее время возрождения.
 
 ### Re-spawning
 
-A player's respawn time is at least 45 seconds and at most 60 seconds plus temporary penalties. Time spent while waiting for a medic is subtracted from that time. Once a player dies he has to wait at least 5 seconds before spawning. These actions influence the respawn time:
+Время возрождения игрока составляет минимум 45 секунд и максимум 60 секунд плюс временные штрафы. Время, проведённое в ожидании медика, вычитается из этого значения. После смерти игрок должен подождать не менее 5 секунд перед возрождением. На время возрождения влияют следующие действия:
 
-* Player death: **+3s**
-* Capturing CP or destroying objective: **-3s**
-* Doing a defensive action: **-1s**
-* Squad built forward outpost: **-10s**
+* Смерть игрока: **+3 с**
+* Захват контрольной точки или уничтожение цели: **−3 с**
+* Выполнение оборонительного действия: **−1 с**
+* Отряд построил передовой опорный пункт: **−10 с**
 
-A temporary spawn time penalty which only affects the next time you die \(building up to 5 minutes\) is added by these actions:
+Временный штраф ко времени возрождения, который применяется только к следующей смерти (и может накапливаться до 5 минут), добавляется за следующие действия:
 
-* Teamkill: **15 seconds per teamkill**
-* Suicide: **15 seconds**
-* Civilian getting captured: **90 seconds**
-* Civilian killed violating ROE: **120 seconds per civilian**
-* Friendly weapons cache destroyed: **300 seconds**
+* Убийство союзника: **15 секунд за каждый тимкилл**
+* Самоубийство: **15 секунд**
+* Захват гражданского лица: **90 секунд**
+* Убийство гражданского с нарушением ROE: **120 секунд за каждого гражданского**
+* Уничтожение дружественного тайника с оружием: **300 секунд**
 
-To select a spawn point, bring up the spawn map\(default: **Enter**\) and select an applicable location marked by a white dot. Once you’re happy with that spawn location, you must click the **Spawn** button in the lower right corner of the map screen to re-spawn into the game.
+Чтобы выбрать точку возрождения, откройте карту возрождения (по умолчанию: **Enter**) и выберите доступное место, отмеченное белой точкой. После выбора точки необходимо нажать кнопку **Spawn** в правом нижнем углу экрана карты, чтобы вернуться в игру.
 
 ## _Logistics_ {#logistics}
 
@@ -459,4 +467,3 @@ Vehicle entry points can differ per vehicle. Look for hatches.
 {% figure "../assets/seaticons.png" %}
 Important crew members are shown as squared markers. Passengers use a total counter above the vehicle icon.
 {% endfigure %}
-
